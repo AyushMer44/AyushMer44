@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyushMer44
-- 👀 I’m interested in Java Developement
-- 🌱 I’m currently learning Spring Boot
+- 👀 I’m interested in Full Stack Developement
+- 🌱 I’m currently doing internship
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :- ayushmer5@gmail.com
 
